@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://ai-infra-bench.github.io
+Sitemap: https://ai-infra-bench.github.io/sitemap.xml

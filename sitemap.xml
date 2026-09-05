@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://ai-infra-bench.github.io/</loc></url>
+  <url><loc>https://ai-infra-bench.github.io/tasks/vllm-anthropic-inline-system-template</loc></url>
+  <url><loc>https://ai-infra-bench.github.io/tasks/vllm-asr-chunk-spacing</loc></url>
+  <url><loc>https://ai-infra-bench.github.io/tasks/vllm-async-kv-token-accounting</loc></url>
+  <url><loc>https://ai-infra-bench.github.io/tasks/vllm-async-spec-placeholder-discard</loc></url>
+  <url><loc>https://ai-infra-bench.github.io/tasks/vllm-concurrent-config-refresh</loc></url>
+  <url><loc>https://ai-infra-bench.github.io/tasks/vllm-cpu-offload-reset-inflight</loc></url>
+  <url><loc>https://ai-infra-bench.github.io/tasks/vllm-implement-anthropic-rust-serving</loc></url>
+  <url><loc>https://ai-infra-bench.github.io/tasks/vllm-kv-admission-thrashing</loc></url>
+  <url><loc>https://ai-infra-bench.github.io/tasks/vllm-minimax-m3-streaming-reasoning</loc></url>
+  <url><loc>https://ai-infra-bench.github.io/tasks/vllm-mooncake-eagle-load-mask</loc></url>
+  <url><loc>https://ai-infra-bench.github.io/tasks/vllm-mooncake-hybrid-pd-layout</loc></url>
+  <url><loc>https://ai-infra-bench.github.io/tasks/vllm-persistent-kv-layout-namespace</loc></url>
+  <url><loc>https://ai-infra-bench.github.io/tasks/vllm-pyav-target-frame-selection</loc></url>
+  <url><loc>https://ai-infra-bench.github.io/tasks/vllm-ray-zero-copy-logprobs</loc></url>
+  <url><loc>https://ai-infra-bench.github.io/tasks/vllm-responses-compound-tool-deltas</loc></url>
+  <url><loc>https://ai-infra-bench.github.io/tasks/vllm-rust-tool-entity-preservation</loc></url>
+  <url><loc>https://ai-infra-bench.github.io/tasks/vllm-tokenizer-pickle-threadpool</loc></url>
+</urlset>

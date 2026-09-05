@@ -1,0 +1,1 @@
+function e(e){return e}function t(t){let n=t.indexOf(`#`),r=n===-1?t:t.slice(0,n),i=n===-1?``:t.slice(n);return e(`${/^\/tasks\/[^/]+$/.test(r)?`${r}.html`:r}${i}`)}export{t as n,e as t};

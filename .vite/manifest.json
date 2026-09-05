@@ -1,0 +1,79 @@
+{
+  "_base-path-DT1rtyNL.js": {
+    "file": "_next/static/chunks/base-path-DT1rtyNL.js",
+    "name": "base-path"
+  },
+  "_framework-BgSIrAUN.js": {
+    "file": "_next/static/chunks/framework-BgSIrAUN.js",
+    "name": "framework",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js"
+    ]
+  },
+  "_rolldown-runtime-C60lm6uB.js": {
+    "file": "_next/static/chunks/rolldown-runtime-C60lm6uB.js",
+    "name": "rolldown-runtime"
+  },
+  "app/components/task-content-tabs.tsx": {
+    "file": "_next/static/chunks/task-content-tabs-DKRhSbg9.js",
+    "name": "task-content-tabs",
+    "src": "app/components/task-content-tabs.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_base-path-DT1rtyNL.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "app/components/task-explorer.tsx": {
+    "file": "_next/static/chunks/task-explorer-C5L1GfTi.js",
+    "name": "task-explorer",
+    "src": "app/components/task-explorer.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_base-path-DT1rtyNL.js",
+      "node_modules/vinext/dist/shims/image.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "node_modules/vinext/dist/shims/image.js": {
+    "file": "_next/static/chunks/image-C4rdC0RJ.js",
+    "name": "image",
+    "src": "node_modules/vinext/dist/shims/image.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "_next/static/chunks/layout-segment-context-BLCUBJZS.js",
+    "name": "layout-segment-context",
+    "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "virtual:vinext-app-browser-entry": {
+    "file": "_next/static/chunks/index-D44ct80f.js",
+    "name": "index",
+    "src": "virtual:vinext-app-browser-entry",
+    "isEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-BgSIrAUN.js"
+    ],
+    "dynamicImports": [
+      "virtual:vinext-app-browser-entry",
+      "node_modules/vinext/dist/shims/layout-segment-context.js",
+      "app/components/task-explorer.tsx",
+      "app/components/task-content-tabs.tsx",
+      "node_modules/vinext/dist/shims/image.js"
+    ]
+  }
+}
