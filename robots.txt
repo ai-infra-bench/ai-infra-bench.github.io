@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://infrabench.ai
+Sitemap: https://infrabench.ai/sitemap.xml

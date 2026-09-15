@@ -1,0 +1,127 @@
+{
+  "_base-path-yZxlWCdk.js": {
+    "file": "_next/static/chunks/base-path-yZxlWCdk.js",
+    "name": "base-path",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "_framework-BgSIrAUN.js": {
+    "file": "_next/static/chunks/framework-BgSIrAUN.js",
+    "name": "framework",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js"
+    ]
+  },
+  "_leaderboard-chart-CiXTXyop.js": {
+    "file": "_next/static/chunks/leaderboard-chart-CiXTXyop.js",
+    "name": "leaderboard-chart"
+  },
+  "_rolldown-runtime-C60lm6uB.js": {
+    "file": "_next/static/chunks/rolldown-runtime-C60lm6uB.js",
+    "name": "rolldown-runtime"
+  },
+  "_task-entry-8ww2DjdK.js": {
+    "file": "_next/static/chunks/task-entry-8ww2DjdK.js",
+    "name": "task-entry",
+    "imports": [
+      "_base-path-yZxlWCdk.js",
+      "_task-format-CSMPvlZU.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "_task-format-CSMPvlZU.js": {
+    "file": "_next/static/chunks/task-format-CSMPvlZU.js",
+    "name": "task-format"
+  },
+  "app/components/catalogue-browser.tsx": {
+    "file": "_next/static/chunks/catalogue-browser-Cn5IV4ka.js",
+    "name": "catalogue-browser",
+    "src": "app/components/catalogue-browser.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_task-entry-8ww2DjdK.js",
+      "_base-path-yZxlWCdk.js",
+      "_task-format-CSMPvlZU.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "app/components/home-tasks.tsx": {
+    "file": "_next/static/chunks/home-tasks-lsVkTNAG.js",
+    "name": "home-tasks",
+    "src": "app/components/home-tasks.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_task-entry-8ww2DjdK.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "app/components/leaderboard-explorer.tsx": {
+    "file": "_next/static/chunks/leaderboard-explorer-swZQ0P1_.js",
+    "name": "leaderboard-explorer",
+    "src": "app/components/leaderboard-explorer.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_base-path-yZxlWCdk.js",
+      "_leaderboard-chart-CiXTXyop.js",
+      "_task-format-CSMPvlZU.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "app/components/print-comparison.tsx": {
+    "file": "_next/static/chunks/print-comparison-CPwVuSB5.js",
+    "name": "print-comparison",
+    "src": "app/components/print-comparison.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_leaderboard-chart-CiXTXyop.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "app/components/task-content-tabs.tsx": {
+    "file": "_next/static/chunks/task-content-tabs-BE6Co7x5.js",
+    "name": "task-content-tabs",
+    "src": "app/components/task-content-tabs.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_base-path-yZxlWCdk.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "_next/static/chunks/layout-segment-context-CJFlNs6M.js",
+    "name": "layout-segment-context",
+    "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "virtual:vinext-app-browser-entry": {
+    "file": "_next/static/chunks/index-C0kc3nTt.js",
+    "name": "index",
+    "src": "virtual:vinext-app-browser-entry",
+    "isEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-BgSIrAUN.js"
+    ],
+    "dynamicImports": [
+      "virtual:vinext-app-browser-entry",
+      "app/components/leaderboard-explorer.tsx",
+      "node_modules/vinext/dist/shims/layout-segment-context.js",
+      "app/components/catalogue-browser.tsx",
+      "app/components/print-comparison.tsx",
+      "app/components/home-tasks.tsx",
+      "app/components/task-content-tabs.tsx"
+    ]
+  }
+}

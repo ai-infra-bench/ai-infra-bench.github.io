@@ -1,0 +1,1 @@
+{"highlightedHtml":"<pre class=\"shiki ai-infra-paper\" style=\"background-color:#F8F7F3;color:#303638\"><code><span class=\"line\"><span>services:</span></span>\n<span class=\"line\"><span>  main:</span></span>\n<span class=\"line\"><span>    volumes:</span></span>\n<span class=\"line\"><span>      - .:/tests:ro</span></span></code></pre>","lineCount":4}
