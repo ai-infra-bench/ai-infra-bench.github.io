@@ -1,0 +1,1 @@
+{"highlightedHtml":"<pre class=\"shiki ai-infra-paper\" style=\"background-color:#F8F7F3;color:#303638\"><code><span class=\"line\"><span># Python dependencies are supplied by the digest-pinned OCI base image.</span></span>\n<span class=\"line\"><span># This task layer performs no Python package resolution or installation.</span></span></code></pre>","lineCount":2}

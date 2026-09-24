@@ -1,0 +1,128 @@
+{
+  "_base-path-yZxlWCdk.js": {
+    "file": "_next/static/chunks/base-path-yZxlWCdk.js",
+    "name": "base-path",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "_framework-BgSIrAUN.js": {
+    "file": "_next/static/chunks/framework-BgSIrAUN.js",
+    "name": "framework",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js"
+    ]
+  },
+  "_leaderboard-chart-C22boLYF.js": {
+    "file": "_next/static/chunks/leaderboard-chart-C22boLYF.js",
+    "name": "leaderboard-chart"
+  },
+  "_rolldown-runtime-C60lm6uB.js": {
+    "file": "_next/static/chunks/rolldown-runtime-C60lm6uB.js",
+    "name": "rolldown-runtime"
+  },
+  "_task-entry-DGMhNk-d.js": {
+    "file": "_next/static/chunks/task-entry-DGMhNk-d.js",
+    "name": "task-entry",
+    "imports": [
+      "_base-path-yZxlWCdk.js",
+      "_task-format-CkCmN0ug.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "_task-format-CkCmN0ug.js": {
+    "file": "_next/static/chunks/task-format-CkCmN0ug.js",
+    "name": "task-format"
+  },
+  "app/components/catalogue-browser.tsx": {
+    "file": "_next/static/chunks/catalogue-browser-B60UwgBx.js",
+    "name": "catalogue-browser",
+    "src": "app/components/catalogue-browser.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_task-entry-DGMhNk-d.js",
+      "_base-path-yZxlWCdk.js",
+      "_task-format-CkCmN0ug.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "app/components/home-tasks.tsx": {
+    "file": "_next/static/chunks/home-tasks-CBVOgNnt.js",
+    "name": "home-tasks",
+    "src": "app/components/home-tasks.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_task-entry-DGMhNk-d.js",
+      "_task-format-CkCmN0ug.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "app/components/leaderboard-explorer.tsx": {
+    "file": "_next/static/chunks/leaderboard-explorer-DYJdkPAd.js",
+    "name": "leaderboard-explorer",
+    "src": "app/components/leaderboard-explorer.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_base-path-yZxlWCdk.js",
+      "_leaderboard-chart-C22boLYF.js",
+      "_task-format-CkCmN0ug.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "app/components/print-comparison.tsx": {
+    "file": "_next/static/chunks/print-comparison-Ddfz0eQM.js",
+    "name": "print-comparison",
+    "src": "app/components/print-comparison.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_leaderboard-chart-C22boLYF.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "app/components/task-content-tabs.tsx": {
+    "file": "_next/static/chunks/task-content-tabs-BE6Co7x5.js",
+    "name": "task-content-tabs",
+    "src": "app/components/task-content-tabs.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_base-path-yZxlWCdk.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "_next/static/chunks/layout-segment-context-CTD3tW1S.js",
+    "name": "layout-segment-context",
+    "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "virtual:vinext-app-browser-entry": {
+    "file": "_next/static/chunks/index-DGWdRMjG.js",
+    "name": "index",
+    "src": "virtual:vinext-app-browser-entry",
+    "isEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-BgSIrAUN.js"
+    ],
+    "dynamicImports": [
+      "virtual:vinext-app-browser-entry",
+      "app/components/leaderboard-explorer.tsx",
+      "node_modules/vinext/dist/shims/layout-segment-context.js",
+      "app/components/catalogue-browser.tsx",
+      "app/components/print-comparison.tsx",
+      "app/components/home-tasks.tsx",
+      "app/components/task-content-tabs.tsx"
+    ]
+  }
+}
